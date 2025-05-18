@@ -1,0 +1,13 @@
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.csproj.AssemblyReference.cache
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.Form1.resources
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.Properties.Resources.resources
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.csproj.GenerateResource.cache
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.pdb
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.Form2.resources
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.Form3.resources
+C:\Users\Bayram Enes Atay\source\repos\OgrenciProje\obj\Debug\OgrenciProje.Form4.resources
